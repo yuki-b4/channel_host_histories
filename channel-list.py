@@ -7,7 +7,7 @@ import csv
 SLACK_CHANNEL_ID = 'C057JGRUJDB'
 SLACK_URL = "https://slack.com/api/conversations.history"
 # 共有されたTOKENを代入
-TOKEN = "5bcWiO40ovd18U3uYsUBaxLP"
+TOKEN = "hoge"
 
 def get_https_strings(text):
     pattern = "https?://[\w/:%#\$&\?\(\)~\.=\+\-]+"
